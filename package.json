@@ -8,7 +8,8 @@
   "files": [
     "*.md",
     "*.js",
-    "LICENSE"
+    "LICENSE",
+    "modules"
   ],
   "scripts": {
     "build-lib": "babel ./modules -d . --ignore '__tests__'",
